@@ -1,8 +1,5 @@
 # Problems-C-
 Examples of solving simple problems in C++
 
-***Struct.cpp***
+Struct.cpp - This task provides an example of using structures and pointers.
 
-This task provides an example of using structures and pointers.
-
-***          ***
